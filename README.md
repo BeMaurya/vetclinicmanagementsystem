@@ -3,7 +3,7 @@ A desktop-based Veterinary Clinic Management System built using Java (Swing/AWT)
 This project was developed as an academic / capstone project and demonstrates end-to-end software development including database design, Java GUI, and installer-based deployment.
 
 ## 📁 Project Structure
-```text
+```pgsql
 vetclinicmanagementsystem/
 │
 ├── Documentation/
@@ -72,7 +72,7 @@ The system follows a layered desktop application architecture, separating UI, bu
               v
 +---------------------------+
 |      Oracle 11g DB        |
-|  Tables, Views, Records  |
+|  Tables, Views, Records   |
 +---------------------------+
 ```
 
