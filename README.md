@@ -37,14 +37,16 @@ vetclinicmanagementsystem/
 - 🖥 Desktop-based GUI application
 - ⚙️ Automated database setup using .bat & .sql files
 
-## 🛠 Tech Stack
-- Language: Java (Swing / AWT)
-- Database: Oracle 11g
-- JDK: JDK 1.6+
-- Installer: setup.exe
-- Database Scripts: SQL & Batch files
-- IDE: NetBeans / Eclipse
-- Documentation: PDF report
+## 🛠️ Tech Stack
+
+- ☕ **Language:** Java (Swing / AWT)  
+- 🗄️ **Database:** Oracle 11g  
+- ⚙️ **JDK:** Java Development Kit (JDK 1.6+)  
+- 📦 **Installer:** `setup.exe` (Windows-based installer)  
+- 📜 **Database Scripts:** SQL scripts & Batch (`.bat`) files  
+- 🧰 **IDE:** NetBeans / Eclipse  
+- 📄 **Documentation:** Detailed PDF report  
+
 
 ## 🧠 Architecture Overview  
 The system follows a layered desktop application architecture, separating UI, business logic, and database access.
